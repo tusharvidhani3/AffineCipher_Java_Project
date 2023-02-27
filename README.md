@@ -18,5 +18,7 @@ When (C-k2) is negative, we get value of P negative as the program gives -ve rem
 ## Output:-
 
 Enter the plaintext: hello
+
 Ciphertext: ZEBBW
+
 Decrypted text: hello
